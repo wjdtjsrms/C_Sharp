@@ -1,0 +1,16 @@
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\bin\Debug\net5.0\C_Study.exe
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\bin\Debug\net5.0\C_Study.deps.json
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\bin\Debug\net5.0\C_Study.runtimeconfig.json
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\bin\Debug\net5.0\C_Study.runtimeconfig.dev.json
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\bin\Debug\net5.0\C_Study.dll
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\bin\Debug\net5.0\ref\C_Study.dll
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\bin\Debug\net5.0\C_Study.pdb
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\obj\Debug\net5.0\C_Study.csprojAssemblyReference.cache
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\obj\Debug\net5.0\C_Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\obj\Debug\net5.0\C_Study.AssemblyInfoInputs.cache
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\obj\Debug\net5.0\C_Study.AssemblyInfo.cs
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\obj\Debug\net5.0\C_Study.csproj.CoreCompileInputs.cache
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\obj\Debug\net5.0\C_Study.dll
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\obj\Debug\net5.0\ref\C_Study.dll
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\obj\Debug\net5.0\C_Study.pdb
+C:\Users\DMC CONET\source\repos\C_Study\C_Study\obj\Debug\net5.0\C_Study.genruntimeconfig.cache
