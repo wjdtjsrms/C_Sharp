@@ -50,10 +50,15 @@
     <Compile Remove="chapter_14\SimpleLamda.cs" />
     <Compile Remove="chapter_14\StatementLamda.cs" />
     <Compile Remove="chapter_14\UsingExpressionTree.cs" />
+    <Compile Remove="chapter_15\15_1.cs" />
+    <Compile Remove="chapter_15\15_2.cs" />
     <Compile Remove="chapter_15\From.cs" />
     <Compile Remove="chapter_15\FromFrom.cs" />
     <Compile Remove="chapter_15\GroupBy.cs" />
+    <Compile Remove="chapter_15\Join.cs" />
+    <Compile Remove="chapter_15\MinMax.cs" />
     <Compile Remove="chapter_15\SimpleLinq.cs" />
+    <Compile Remove="chapter_15\SimpleLinq2.cs" />
     <Compile Remove="chapter_3\Base.cs" />
     <Compile Remove="chapter_3\BoolType.cs" />
     <Compile Remove="chapter_3\Boxing_UnBoxing.cs" />
@@ -129,6 +134,7 @@
     <None Include="chapter_10\UsingHash.cs" />
     <CodeAnalysisDictionary Include="chapter_10\initializingCollections.cs" />
     <CodeAnalysisDictionary Include="chapter_10\UsingQueue.cs" />
+    <CodeAnalysisDictionary Include="chapter_15\15_1.cs" />
     <CodeAnalysisDictionary Include="chapter_8\MultiInterfaceInheritance.cs" />
   </ItemGroup>
 
@@ -171,10 +177,14 @@
     <None Include="chapter_14\SimpleLamda.cs" />
     <None Include="chapter_14\StatementLamda.cs" />
     <None Include="chapter_14\UsingExpressionTree.cs" />
+    <None Include="chapter_15\15_2.cs" />
     <None Include="chapter_15\From.cs" />
     <None Include="chapter_15\FromFrom.cs" />
     <None Include="chapter_15\GroupBy.cs" />
+    <None Include="chapter_15\Join.cs" />
+    <None Include="chapter_15\MinMax.cs" />
     <None Include="chapter_15\SimpleLinq.cs" />
+    <None Include="chapter_15\SimpleLinq2.cs" />
     <None Include="chapter_3\Base.cs" />
     <None Include="chapter_3\BoolType.cs" />
     <None Include="chapter_3\Boxing_UnBoxing.cs" />

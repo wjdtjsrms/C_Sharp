@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 // 대리자 체인 page 469
-
+// 함수를 여러개를 추가할때 중간에 return이 있으면 끊긴다. 필요하면 out으로 빼낸다. 
 namespace C_Study.chapter_13
 {
     delegate void Notify(string message);

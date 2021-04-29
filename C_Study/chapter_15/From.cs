@@ -34,7 +34,7 @@ namespace C_Study.chapter_15
                          // from으로  데이터 원본으로 부터 범위 변수를 뽑는다.
             var result = from n in numbers // numbers 안에 있는 각 데이터로부터
                          where n % 2 == 0 // 짝수를
-                         orderby n // 정렬하지 말고
+                         orderby n // 기본 정렬 값으로(오름차순)
                          select n; // n 객체로 추출한다.
             foreach(int n in result)
             {
