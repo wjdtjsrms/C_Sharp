@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="AllChange.cs" />
     <Compile Remove="BoolType.cs" />
     <Compile Remove="chapter_10\ArrarySample.cs" />
     <Compile Remove="chapter_10\Enumerable.cs" />
@@ -15,7 +16,6 @@
     <Compile Remove="chapter_10\Slice.cs" />
     <Compile Remove="chapter_10\UsingHash.cs" />
     <Compile Remove="chapter_10\UsingList.cs" />
-    <Compile Remove="chapter_10\UsingQueue.cs" />
     <Compile Remove="chapter_10\UsingStack.cs" />
     <Compile Remove="chapter_10\Yield.cs" />
     <Compile Remove="chapter_11\ConstraintsOnTypeParameters.cs" />
@@ -59,6 +59,8 @@
     <Compile Remove="chapter_15\MinMax.cs" />
     <Compile Remove="chapter_15\SimpleLinq.cs" />
     <Compile Remove="chapter_15\SimpleLinq2.cs" />
+    <Compile Remove="chapter_21\EchoClient.cs" />
+    <Compile Remove="chapter_21\EchoServer.cs" />
     <Compile Remove="chapter_3\Base.cs" />
     <Compile Remove="chapter_3\BoolType.cs" />
     <Compile Remove="chapter_3\Boxing_UnBoxing.cs" />
@@ -129,11 +131,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="AllChange.cs" />
     <None Include="chapter_10\Enumerable.cs" />
     <None Include="chapter_10\Indexer.cs" />
     <None Include="chapter_10\UsingHash.cs" />
     <CodeAnalysisDictionary Include="chapter_10\initializingCollections.cs" />
-    <CodeAnalysisDictionary Include="chapter_10\UsingQueue.cs" />
     <CodeAnalysisDictionary Include="chapter_15\15_1.cs" />
     <CodeAnalysisDictionary Include="chapter_8\MultiInterfaceInheritance.cs" />
   </ItemGroup>
@@ -185,6 +187,8 @@
     <None Include="chapter_15\MinMax.cs" />
     <None Include="chapter_15\SimpleLinq.cs" />
     <None Include="chapter_15\SimpleLinq2.cs" />
+    <None Include="chapter_21\EchoClient.cs" />
+    <None Include="chapter_21\EchoServer.cs" />
     <None Include="chapter_3\Base.cs" />
     <None Include="chapter_3\BoolType.cs" />
     <None Include="chapter_3\Boxing_UnBoxing.cs" />

@@ -58,7 +58,7 @@ namespace C_Study.chapter_13
 
         {
 
-            MyEvent?.Invoke(this,e); // 이벤트에 ㅜ들어가 있는 함수들을 실행시켜라
+            MyEvent?.Invoke(this,e); // 이벤트에 들어가 있는 함수들을 실행시켜라
 
         }
 
