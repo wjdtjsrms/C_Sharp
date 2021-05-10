@@ -21,7 +21,7 @@ namespace C_Study.chapter_13
             return a.CompareTo(b) * -1;
         }
 
-        static void BubbleSort<T>(T[] DataSet,Compare<T> compare)
+        static void BubbleSort<T>(T[] DataSet,Compare<T> compare) // T형 배열과 T형 대리자를 받는다.
         {
             int i = 0;
             int j = 0;

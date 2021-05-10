@@ -1,7 +1,5 @@
 ﻿using System;
 
-
-
 namespace C_Study.chapter_13
 {
 
