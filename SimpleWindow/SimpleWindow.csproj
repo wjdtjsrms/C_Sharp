@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <DisableWinExeOutputInference>true</DisableWinExeOutputInference>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="FormBackground.cs" />
+    <Compile Remove="FormEvent.cs" />
+    <Compile Remove="FormSize.cs" />
+    <Compile Remove="FormStyle.cs" />
+    <Compile Remove="MainApp.cs" />
+    <Compile Remove="MessageFilter.cs" />
+    <Compile Remove="UsingApplication.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="FormStyle.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="FormBackground.cs" />
+    <None Include="FormEvent.cs" />
+    <None Include="FormSize.cs" />
+    <None Include="MainApp.cs" />
+    <None Include="MessageFilter.cs" />
+    <None Include="UsingApplication.cs" />
+  </ItemGroup>
+
+</Project>

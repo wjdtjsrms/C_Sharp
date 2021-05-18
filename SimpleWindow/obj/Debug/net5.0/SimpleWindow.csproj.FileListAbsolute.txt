@@ -1,0 +1,16 @@
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\bin\Debug\net5.0\SimpleWindow.exe
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\bin\Debug\net5.0\SimpleWindow.deps.json
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\bin\Debug\net5.0\SimpleWindow.runtimeconfig.json
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\bin\Debug\net5.0\SimpleWindow.runtimeconfig.dev.json
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\bin\Debug\net5.0\SimpleWindow.dll
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\bin\Debug\net5.0\ref\SimpleWindow.dll
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\bin\Debug\net5.0\SimpleWindow.pdb
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\obj\Debug\net5.0\SimpleWindow.csprojAssemblyReference.cache
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\obj\Debug\net5.0\SimpleWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\obj\Debug\net5.0\SimpleWindow.AssemblyInfoInputs.cache
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\obj\Debug\net5.0\SimpleWindow.AssemblyInfo.cs
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\obj\Debug\net5.0\SimpleWindow.csproj.CoreCompileInputs.cache
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\obj\Debug\net5.0\SimpleWindow.dll
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\obj\Debug\net5.0\ref\SimpleWindow.dll
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\obj\Debug\net5.0\SimpleWindow.pdb
+C:\Users\DMC CONET\source\repos\SimpleWindow\SimpleWindow\obj\Debug\net5.0\SimpleWindow.genruntimeconfig.cache

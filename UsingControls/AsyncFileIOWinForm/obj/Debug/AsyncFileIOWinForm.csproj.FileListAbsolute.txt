@@ -1,0 +1,8 @@
+C:\Users\DMC CONET\source\repos\UsingControls\UsingControls\AsyncFileIOWinForm\bin\Debug\AsyncFileIOWinForm.exe.config
+C:\Users\DMC CONET\source\repos\UsingControls\UsingControls\AsyncFileIOWinForm\bin\Debug\AsyncFileIOWinForm.exe
+C:\Users\DMC CONET\source\repos\UsingControls\UsingControls\AsyncFileIOWinForm\bin\Debug\AsyncFileIOWinForm.pdb
+C:\Users\DMC CONET\source\repos\UsingControls\UsingControls\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.Properties.Resources.resources
+C:\Users\DMC CONET\source\repos\UsingControls\UsingControls\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.csproj.GenerateResource.cache
+C:\Users\DMC CONET\source\repos\UsingControls\UsingControls\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.csproj.CoreCompileInputs.cache
+C:\Users\DMC CONET\source\repos\UsingControls\UsingControls\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.exe
+C:\Users\DMC CONET\source\repos\UsingControls\UsingControls\AsyncFileIOWinForm\obj\Debug\AsyncFileIOWinForm.pdb
