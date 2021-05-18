@@ -61,6 +61,7 @@
     <Compile Remove="chapter_15\MinMax.cs" />
     <Compile Remove="chapter_15\SimpleLinq.cs" />
     <Compile Remove="chapter_15\SimpleLinq2.cs" />
+    <Compile Remove="chapter_16\GetType.cs" />
     <Compile Remove="chapter_19\AbortingThread.cs" />
     <Compile Remove="chapter_19\Async.cs" />
     <Compile Remove="chapter_19\BasicThread.cs" />
@@ -205,6 +206,7 @@
     <None Include="chapter_15\MinMax.cs" />
     <None Include="chapter_15\SimpleLinq.cs" />
     <None Include="chapter_15\SimpleLinq2.cs" />
+    <None Include="chapter_16\GetType.cs" />
     <None Include="chapter_19\AbortingThread.cs" />
     <None Include="chapter_19\InterruptingThread.cs" />
     <None Include="chapter_19\ParallelLoop.cs" />

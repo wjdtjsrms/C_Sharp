@@ -10,6 +10,7 @@ namespace C_Study.chapter_21
     {
         static void Main(string[] args)
         {
+
             if(args.Length < 4)
             {
                 Console.WriteLine($"사용법 : {Process.GetCurrentProcess().ProcessName} <Bind IP> <Bind Port> <Server IP> <Messange>");
